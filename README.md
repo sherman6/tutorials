@@ -68,7 +68,8 @@ But if you're looking for a place to get started, here are a few good bets (this
 
 #### Free tutorial websites:
 
-[W3Schools](https://www.w3schools.com/)  [TutorialsPoint](https://www.tutorialspoint.com/python/index.htm)  
+[W3Schools](https://www.w3schools.com/)  
+[TutorialsPoint](https://www.tutorialspoint.com/python/index.htm)  
 [R-Bloggers](https://www.r-bloggers.com/)  
 [YouTube](https://www.youtube.com/)   
 
