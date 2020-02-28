@@ -1,5 +1,5 @@
-# tutorials
-Tutorials on various topics related to data analysis and coding
+# Tutorials
+###### Tutorials on various topics related to data analysis and coding
 
 ___
 
