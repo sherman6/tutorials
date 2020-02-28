@@ -21,7 +21,7 @@ ___
 
 #### Language: Python  
 
-Tutorial 1 - Basic Python Troubleshooting and Usability Tips
+[Tutorial 1 - Basic Python Troubleshooting and Usability Tips](Tutorial-01-Python-Basic_troubleshooting_and_usability_tips-v01.ipynb)
 - Troubleshooting and Usability Tips
 - Selecting Items and Objects in Lists and Dataframes
 - Lists Containing Dataframes
