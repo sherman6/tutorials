@@ -31,7 +31,7 @@ ___
 
 Tutorial 2 - Working with DataFrames in Python - _coming soon!_  
 
-Tutorial 3 - Writing Useful Formulas in Python - _coming soon!_  
+[Tutorial 3 - Writing Useful Formulas in Python](https://github.com/sherman6/tutorials/blob/master/Tutorial-03-Python-Writing_Useful_Functions-v01.ipynb)  
 
 Tutorial 4 - Topic TBD.  
 
