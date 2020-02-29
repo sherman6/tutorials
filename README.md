@@ -21,7 +21,7 @@ ___
 
 #### Language: Python  
 
-[Tutorial 1 - Basic Python Troubleshooting and Usability Tips](Tutorial-01-Python-Basic_troubleshooting_and_usability_tips-v01.ipynb)
+__[Tutorial 1 - Basic Python Troubleshooting and Usability Tips](Tutorial-01-Python-Basic_troubleshooting_and_usability_tips-v01.ipynb)__  
 - Troubleshooting and Usability Tips
 - Selecting Items and Objects in Lists and Dataframes
 - Lists Containing Dataframes
@@ -31,7 +31,7 @@ ___
 
 Tutorial 2 - Working with DataFrames in Python - _coming soon!_  
 
-[Tutorial 3 - Writing Useful Formulas in Python](https://github.com/sherman6/tutorials/blob/master/Tutorial-03-Python-Writing_Useful_Functions-v01.ipynb)  
+__[Tutorial 3 - Writing Useful Formulas in Python](https://github.com/sherman6/tutorials/blob/master/Tutorial-03-Python-Writing_Useful_Functions-v01.ipynb)__  
 
 Tutorial 4 - Topic TBD.  
 
