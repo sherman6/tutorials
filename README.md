@@ -43,7 +43,7 @@ _More tutorials coming soon!_
 
 #### Language: SPSS 
 
-_Coming in 2020._  
+__[Tutorial-SPSS-01-Basic_Commands_Using_Syntax-v01](https://github.com/sherman6/tutorials/blob/master/Tutorial-SPSS-01-Basic_Commands_Using_Syntax-v01.sps)__  
 
 
 
