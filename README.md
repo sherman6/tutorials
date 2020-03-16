@@ -44,7 +44,8 @@ _More tutorials coming soon!_
 #### Language: SPSS 
 
 __[Tutorial-SPSS-01-Basic_Commands_Using_Syntax-v01](https://github.com/sherman6/tutorials/blob/master/Tutorial-SPSS-01-Basic_Commands_Using_Syntax-v01.sps)__  
-
+- Useful syntax commands and functionalities
+- Wrangling and transforming data in SPSS code
 
 
 #### Language: R  
