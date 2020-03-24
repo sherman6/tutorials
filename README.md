@@ -21,17 +21,17 @@ ___
 
 #### Language: Python  
 
-__[Tutorial 1 - Basic Python Troubleshooting and Usability Tips](Tutorial-01-Python-Basic_troubleshooting_and_usability_tips-v01.ipynb)__  
-- Troubleshooting and Usability Tips
-- Selecting Items and Objects in Lists and Dataframes
-- Lists Containing Dataframes
-- Overwriting Data: Pointing vs. Copying
-- Saving Items and Objects
+__[Tutorial 1 - Basic Python Troubleshooting and Usability Tips](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-01-Python-Basic_troubleshooting_and_usability_tips-v01.ipynb)__  
+- [Troubleshooting and Usability Tips](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-01-Python-Basic_troubleshooting_and_usability_tips-v01.ipynb)
+- [Selecting Items and Objects in Lists and Dataframes](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-01-Python-Basic_troubleshooting_and_usability_tips-v01.ipynb#first-bullet)
+- [Lists Containing Dataframes](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-01-Python-Basic_troubleshooting_and_usability_tips-v01.ipynb#fifth-bullet)
+- [Overwriting Data: Pointing vs. Copying](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-01-Python-Basic_troubleshooting_and_usability_tips-v01.ipynb#seventh-bullet)
+- [Saving Items and Objects](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-01-Python-Basic_troubleshooting_and_usability_tips-v01.ipynb#seventh-bullet)
 
 
 Tutorial 2 - Working with DataFrames in Python - _coming soon!_  
 
-__[Tutorial 3 - Writing Useful Formulas in Python](https://github.com/sherman6/tutorials/blob/master/Tutorial-03-Python-Writing_Useful_Functions-v01.ipynb)__  
+__[Tutorial 3 - Writing Useful Formulas in Python](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-03-Python-Writing_Useful_Functions-v01.ipynb)__  
 
 Tutorial 4 - Topic TBD.  
 
