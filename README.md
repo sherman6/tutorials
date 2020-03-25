@@ -3,9 +3,9 @@
 
 ___
 
-Welcome to the tutorials repository.  Here, I will demonstrate tips and tricks which will hopefully help others troubleshoot code in various programming languages.
+Welcome to the tutorials repository.  Here, I demonstrate tips and tricks which will hopefully help others troubleshoot code in various programming languages.
 
-## Purpose:
+## Purpose
 
 As much as I can, I'll show examples of things that __don't__ work, and explain the resulting error messages. In my experience, seeing examples of __<font color='maroon'>"the wrong way"</font>__ to code is just as educational as seeing __<font color='green'>"the right way"</font>__ to code.  In modern coding languages, there is often more than one way to achieve something, and therefore often multiple ways to get stuck ☹.  
 
@@ -17,14 +17,16 @@ More topics will be added soon (as my time allows).
 
 ___
 
-## Menu:  
+# Menu  
 
 #### Language: Python  
 
 __[Tutorial 1 - Basic Python Troubleshooting and Usability Tips](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-01-Python-Basic_troubleshooting_and_usability_tips-v01.ipynb)__  
 - [Troubleshooting and Usability Tips](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-01-Python-Basic_troubleshooting_and_usability_tips-v01.ipynb)
-- [Selecting Items and Objects in Lists and Dataframes](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-01-Python-Basic_troubleshooting_and_usability_tips-v01.ipynb#first-bullet)
-- [Lists Containing Dataframes](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-01-Python-Basic_troubleshooting_and_usability_tips-v01.ipynb#fifth-bullet)
+- [Selecting Items and Objects](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-01-Python-Basic_troubleshooting_and_usability_tips-v01.ipynb#first-bullet)
+- [Selecting Items and Objects in Dataframes](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-01-Python-Basic_troubleshooting_and_usability_tips-v01.ipynb#second-bullet)
+- [Assigning and Changing Values in Dataframes](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-01-Python-Basic_troubleshooting_and_usability_tips-v01.ipynb#third-bullet)
+- [Lists Containing Dataframes, Dataframes Containing Lists](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-01-Python-Basic_troubleshooting_and_usability_tips-v01.ipynb#fifth-bullet)
 - [Overwriting Data: Pointing vs. Copying](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-01-Python-Basic_troubleshooting_and_usability_tips-v01.ipynb#seventh-bullet)
 - [Saving Items and Objects](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-01-Python-Basic_troubleshooting_and_usability_tips-v01.ipynb#seventh-bullet)
 
@@ -32,6 +34,11 @@ __[Tutorial 1 - Basic Python Troubleshooting and Usability Tips](https://nbviewe
 Tutorial 2 - Working with DataFrames in Python - _coming soon!_  
 
 __[Tutorial 3 - Writing Useful Formulas in Python](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-03-Python-Writing_Useful_Functions-v01.ipynb)__  
+- [The Basics](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-03-Python-Writing_Useful_Functions-v01.ipynb#first-bullet)
+- [Global Variables vs. Local Variables](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-03-Python-Writing_Useful_Functions-v01.ipynb#second-bullet)
+- [How to Define Global Variables](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-03-Python-Writing_Useful_Functions-v01.ipynb#third-bullet)
+- [Using Functions in Coordination](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-03-Python-Writing_Useful_Functions-v01.ipynb#seventh-bullet)
+
 
 Tutorial 4 - Topic TBD.  
 
@@ -43,7 +50,7 @@ _More tutorials coming soon!_
 
 #### Language: SPSS 
 
-__[Tutorial-SPSS-01-Basic_Commands_Using_Syntax-v01](https://github.com/sherman6/tutorials/blob/master/Tutorial-SPSS-01-Basic_Commands_Using_Syntax-v01.sps)__  
+__[Tutorial 1 - SPSS - Basic Commands Using Syntax](https://github.com/sherman6/tutorials/blob/master/Tutorial-SPSS-01-Basic_Commands_Using_Syntax-v01.sps)__  
 - Useful syntax commands and functionalities
 - Wrangling and transforming data in SPSS code
 
@@ -59,25 +66,33 @@ ___
 
 I've spent my fair share of hours Googling, Stack Overflow-ing, and GitHub-ing to find solutions, as well as a decent amount of time on some very informative and robust free tutorial websites.  There are many out there, and more pop up every week - it's a very collaborative community.  
 
-But if you're looking for a place to get started, here are a few good bets (this list is by no means exhaustive): 
+But if you're looking for a place to get started, here are a few good bets (_this list is by no means exhaustive_): 
 
-#### General resources for troubleshooting and solutions:
+
+#### Free general resources for troubleshooting and solutions:
 
 [Stack Overflow-ing](https://stackoverflow.com/)  
 [GitHubbing](https://github.com/)  
 [Googling](https://www.google.com)  
+
 
 #### Free tutorial websites:
 
 [W3Schools](https://www.w3schools.com/)  
 [TutorialsPoint](https://www.tutorialspoint.com/python/index.htm)  
 [R-Bloggers](https://www.r-bloggers.com/)  
+[Quick-R by StatMethods](https://www.statmethods.net/index.html)  
 [YouTube](https://www.youtube.com/)   
 
+
+#### Tutorial courses/MOOC's (may not be free):
+
+[DataCamp](https://www.datacamp.com/)  
+[Coursera](https://www.coursera.org/specializations/jhu-data-science)  
 
 ___
 
 I intend to add to this repository as timing allows, and to address recurring topics or popular questions. Thanks!  
-
+###### I am using `nbviewer` to render the Python tutorials, to help ensure formatting consistency and bookmark functionality. 
 
 
