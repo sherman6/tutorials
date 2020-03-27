@@ -31,7 +31,15 @@ __[Tutorial 1 - Basic Python Troubleshooting and Usability Tips](https://nbviewe
 - [Saving Items and Objects](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-01-Python-Basic_troubleshooting_and_usability_tips-v01.ipynb#seventh-bullet)
 
 
-Tutorial 2 - Working with DataFrames in Python - _coming soon!_  
+__[Tutorial 2 - Working with DataFrames in Python](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-02-Python-Working_with_DataFrames-v01.ipynb)__  
+- [The Basics: Descriptive Functions](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-02-Python-Working_with_DataFrames-v01.ipynb#first-bullet)
+- [Various Methods for Appending Rows (Adding More Cases)](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-02-Python-Working_with_DataFrames-v01.ipynb#second-bullet)
+- [Various Methods for Filtering & Selecting Rows](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-02-Python-Working_with_DataFrames-v01.ipynb#third-bullet)
+- [Various Methods for Removing Rows & Missing Data](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-02-Python-Working_with_DataFrames-v01.ipynb#fourth-bullet)
+- [The Importance of Row Indexing](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-02-Python-Working_with_DataFrames-v01.ipynb#fifth-bullet)
+- [Appending and Removing Columns, & Why Data Type Matters](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-02-Python-Working_with_DataFrames-v01.ipynb#seventh-bullet)
+- [Merging and Joining Dataframes (A Simple Primer)](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-02-Python-Working_with_DataFrames-v01.ipynb#eighth-bullet)
+
 
 __[Tutorial 3 - Writing Useful Formulas in Python](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-03-Python-Writing_Useful_Functions-v01.ipynb)__  
 - [The Basics](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-03-Python-Writing_Useful_Functions-v01.ipynb#first-bullet)
@@ -44,15 +52,15 @@ Tutorial 4 - Topic TBD.
 
 Tutorial 5 - Topic TBD.  
 
-_More tutorials coming soon!_  
+_More tutorials coming in 2020!_  
 
 
 
 #### Language: SPSS 
 
 __[Tutorial 1 - SPSS - Basic Commands Using Syntax](https://github.com/sherman6/tutorials/blob/master/Tutorial-SPSS-01-Basic_Commands_Using_Syntax-v01.sps)__  
-- Useful syntax commands and functionalities
-- Wrangling and transforming data in SPSS code
+- [Useful syntax commands and functionalities](https://github.com/sherman6/tutorials/blob/master/Tutorial-SPSS-01-Basic_Commands_Using_Syntax-v01.sps)
+- [Wrangling and transforming data in SPSS code](https://github.com/sherman6/tutorials/blob/master/Tutorial-SPSS-01-Basic_Commands_Using_Syntax-v01.sps)
 
 
 #### Language: R  
