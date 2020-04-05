@@ -2,13 +2,12 @@
 #
 #################### Python Tutorial 3 Supplement - Functions examples ####################
 ############################### Copyright (C) 2020, sherman6 ##############################
-#
 # Here are a few examples of customized functions, illustrating the concepts discussed in 
 # Tutorial 3. Main tutorials menu:(https://github.com/sherman6/tutorials/blob/master/README.md#menu). 
 
 
 
-# A function to get us probability based upon a logit, which is the log of the odds, (p / (1-p)).
+# A function to get probability based upon a logit, which is the log of the odds, (p / (1-p)).
 
 import numpy as np
 
