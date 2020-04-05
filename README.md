@@ -21,31 +21,31 @@ ___
 
 #### Language: Python  
 
-__[Tutorial 1 - Basic Python Troubleshooting and Usability Tips](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-01-Python-Basic_troubleshooting_and_usability_tips-v01.ipynb)__  
-- [Troubleshooting and Usability Tips](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-01-Python-Basic_troubleshooting_and_usability_tips-v01.ipynb)
-- [Selecting Items and Objects](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-01-Python-Basic_troubleshooting_and_usability_tips-v01.ipynb#first-bullet)
-- [Selecting Items and Objects in Dataframes](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-01-Python-Basic_troubleshooting_and_usability_tips-v01.ipynb#second-bullet)
-- [Assigning and Changing Values in Dataframes](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-01-Python-Basic_troubleshooting_and_usability_tips-v01.ipynb#third-bullet)
-- [Lists Containing Dataframes, Dataframes Containing Lists](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-01-Python-Basic_troubleshooting_and_usability_tips-v01.ipynb#fifth-bullet)
-- [Overwriting Data: Pointing vs. Copying](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-01-Python-Basic_troubleshooting_and_usability_tips-v01.ipynb#seventh-bullet)
-- [Saving Items and Objects](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-01-Python-Basic_troubleshooting_and_usability_tips-v01.ipynb#seventh-bullet)
+__[Tutorial 1 - Basic Python Troubleshooting and Usability Tips](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-01-Python-Basic_troubleshooting_and_usability_tips.ipynb)__  
+- [Troubleshooting and Usability Tips](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-01-Python-Basic_troubleshooting_and_usability_tips.ipynb)
+- [Selecting Items and Objects](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-01-Python-Basic_troubleshooting_and_usability_tips.ipynb#first-bullet)
+- [Selecting Items and Objects in Dataframes](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-01-Python-Basic_troubleshooting_and_usability_tips.ipynb#second-bullet)
+- [Assigning and Changing Values in Dataframes](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-01-Python-Basic_troubleshooting_and_usability_tips.ipynb#third-bullet)
+- [Lists Containing Dataframes, Dataframes Containing Lists](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-01-Python-Basic_troubleshooting_and_usability_tips.ipynb#fifth-bullet)
+- [Overwriting Data: Pointing vs. Copying](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-01-Python-Basic_troubleshooting_and_usability_tips.ipynb#seventh-bullet)
+- [Saving Items and Objects](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-01-Python-Basic_troubleshooting_and_usability_tips.ipynb#seventh-bullet)
 
 
-__[Tutorial 2 - Working with DataFrames in Python](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-02-Python-Working_with_DataFrames-v01.ipynb)__  
-- [The Basics: Descriptive Functions](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-02-Python-Working_with_DataFrames-v01.ipynb#first-bullet)
-- [Various Methods for Appending Rows (Adding More Cases)](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-02-Python-Working_with_DataFrames-v01.ipynb#second-bullet)
-- [Various Methods for Filtering & Selecting Rows](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-02-Python-Working_with_DataFrames-v01.ipynb#third-bullet)
-- [Various Methods for Removing Rows & Missing Data](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-02-Python-Working_with_DataFrames-v01.ipynb#fourth-bullet)
-- [The Importance of Row Indexing](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-02-Python-Working_with_DataFrames-v01.ipynb#fifth-bullet)
-- [Appending and Removing Columns, & Why Data Type Matters](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-02-Python-Working_with_DataFrames-v01.ipynb#seventh-bullet)
-- [Merging and Joining Dataframes (A Simple Primer)](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-02-Python-Working_with_DataFrames-v01.ipynb#eighth-bullet)
+__[Tutorial 2 - Working with DataFrames in Python](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-02-Python-Working_with_DataFrames.ipynb)__  
+- [The Basics: Descriptive Functions](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-02-Python-Working_with_DataFrames.ipynb#first-bullet)
+- [Various Methods for Appending Rows (Adding More Cases)](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-02-Python-Working_with_DataFrames.ipynb#second-bullet)
+- [Various Methods for Filtering & Selecting Rows](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-02-Python-Working_with_DataFrames.ipynb#third-bullet)
+- [Various Methods for Removing Rows & Missing Data](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-02-Python-Working_with_DataFrames.ipynb#fourth-bullet)
+- [The Importance of Row Indexing](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-02-Python-Working_with_DataFrames.ipynb#fifth-bullet)
+- [Appending and Removing Columns, & Why Data Type Matters](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-02-Python-Working_with_DataFrames.ipynb#seventh-bullet)
+- [Merging and Joining Dataframes (A Simple Primer)](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-02-Python-Working_with_DataFrames.ipynb#eighth-bullet)
 
 
-__[Tutorial 3 - Writing Useful Formulas in Python](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-03-Python-Writing_Useful_Functions-v01.ipynb)__  
-- [The Basics](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-03-Python-Writing_Useful_Functions-v01.ipynb#first-bullet)
-- [Global Variables vs. Local Variables](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-03-Python-Writing_Useful_Functions-v01.ipynb#second-bullet)
-- [How to Define Global Variables](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-03-Python-Writing_Useful_Functions-v01.ipynb#third-bullet)
-- [Using Functions in Coordination](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-03-Python-Writing_Useful_Functions-v01.ipynb#seventh-bullet)
+__[Tutorial 3 - Writing Useful Formulas in Python](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-03-Python-Writing_Useful_Functions.ipynb)__  
+- [The Basics](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-03-Python-Writing_Useful_Functions.ipynb#first-bullet)
+- [Global Variables vs. Local Variables](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-03-Python-Writing_Useful_Functions.ipynb#second-bullet)
+- [How to Define Global Variables](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-03-Python-Writing_Useful_Functions.ipynb#third-bullet)
+- [Using Functions in Coordination](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-03-Python-Writing_Useful_Functions.ipynb#seventh-bullet)
 
 
 Tutorial 4 - Topic TBD.  
