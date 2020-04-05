@@ -49,26 +49,97 @@ eps <- rnorm(nruns*nobs,0,1)
 #
 #
 #
+# Welcome to the tutorials repository. Here, I demonstrate tips and tricks which will hopefully help 
+# others troubleshoot code in various programming languages
+# Welcome to the tutorials repository. Here, I demonstrate tips and tricks which will hopefully help 
+# others troubleshoot code in various programming languages
+# Welcome to the tutorials repository. Here, I demonstrate tips and tricks which will hopefully help 
+# others troubleshoot code in various programming languages
+# Welcome to the tutorials repository. Here, I demonstrate tips and tricks which will hopefully help 
+# others troubleshoot code in various programming languages
+# Welcome to the tutorials repository. Here, I demonstrate tips and tricks which will hopefully help 
+# others troubleshoot code in various programming languages
+# Welcome to the tutorials repository. Here, I demonstrate tips and tricks which will hopefully help 
+# others troubleshoot code in various programming languages
+# Welcome to the tutorials repository. Here, I demonstrate tips and tricks which will hopefully help 
+# others troubleshoot code in various programming languages
+# Welcome to the tutorials repository. Here, I demonstrate tips and tricks which will hopefully help 
+# others troubleshoot code in various programming languages
+# Welcome to the tutorials repository. Here, I demonstrate tips and tricks which will hopefully help 
+# others troubleshoot code in various programming languages
+# Welcome to the tutorials repository. Here, I demonstrate tips and tricks which will hopefully help 
+# others troubleshoot code in various programming languages
+# Welcome to the tutorials repository. Here, I demonstrate tips and tricks which will hopefully help 
+# others troubleshoot code in various programming languages
+# Welcome to the tutorials repository. Here, I demonstrate tips and tricks which will hopefully help 
+# others troubleshoot code in various programming languages
+# Welcome to the tutorials repository. Here, I demonstrate tips and tricks which will hopefully help 
+# others troubleshoot code in various programming languages
+# Welcome to the tutorials repository. Here, I demonstrate tips and tricks which will hopefully help 
+# others troubleshoot code in various programming languages
+# Welcome to the tutorials repository. Here, I demonstrate tips and tricks which will hopefully help 
+# others troubleshoot code in various programming languages
+# Welcome to the tutorials repository. Here, I demonstrate tips and tricks which will hopefully help 
+# others troubleshoot code in various programming languages
+# Welcome to the tutorials repository. Here, I demonstrate tips and tricks which will hopefully help 
+# others troubleshoot code in various programming languages
+# Welcome to the tutorials repository. Here, I demonstrate tips and tricks which will hopefully help 
+# others troubleshoot code in various programming languages
+# Welcome to the tutorials repository. Here, I demonstrate tips and tricks which will hopefully help 
+# others troubleshoot code in various programming languages
+# Welcome to the tutorials repository. Here, I demonstrate tips and tricks which will hopefully help 
+# others troubleshoot code in various programming languages
+## Welcome to the tutorials repository. Here, I demonstrate tips and tricks which will hopefully help 
+# others troubleshoot code in various programming languages
+# Welcome to the tutorials repository. Here, I demonstrate tips and tricks which will hopefully help 
+# others troubleshoot code in various programming languages
+# Welcome to the tutorials repository. Here, I demonstrate tips and tricks which will hopefully help 
+# others troubleshoot code in various programming languages
+# Welcome to the tutorials repository. Here, I demonstrate tips and tricks which will hopefully help 
+# others troubleshoot code in various programming languages
+# Welcome to the tutorials repository. Here, I demonstrate tips and tricks which will hopefully help 
+# others troubleshoot code in various programming languages
+# Welcome to the tutorials repository. Here, I demonstrate tips and tricks which will hopefully help 
+# others troubleshoot code in various programming languages
 #
+## Welcome to the tutorials repository. Here, I demonstrate tips and tricks which will hopefully help 
+# others troubleshoot code in various programming languages
+# Welcome to the tutorials repository. Here, I demonstrate tips and tricks which will hopefully help 
+# others troubleshoot code in various programming languages
+# Welcome to the tutorials repository. Here, I demonstrate tips and tricks which will hopefully help 
+# others troubleshoot code in various programming languages
+# Welcome to the tutorials repository. Here, I demonstrate tips and tricks which will hopefully help 
+# others troubleshoot code in various programming languages
+# Welcome to the tutorials repository. Here, I demonstrate tips and tricks which will hopefully help 
+# others troubleshoot code in various programming languages
+# Welcome to the tutorials repository. Here, I demonstrate tips and tricks which will hopefully help 
+# others troubleshoot code in various programming languages
 #
+## Welcome to the tutorials repository. Here, I demonstrate tips and tricks which will hopefully help 
+# others troubleshoot code in various programming languages
+# Welcome to the tutorials repository. Here, I demonstrate tips and tricks which will hopefully help 
+# others troubleshoot code in various programming languages
+# Welcome to the tutorials repository. Here, I demonstrate tips and tricks which will hopefully help 
+# others troubleshoot code in various programming languages
+# Welcome to the tutorials repository. Here, I demonstrate tips and tricks which will hopefully help 
+# others troubleshoot code in various programming languages
+# Welcome to the tutorials repository. Here, I demonstrate tips and tricks which will hopefully help 
+# others troubleshoot code in various programming languages
+# Welcome to the tutorials repository. Here, I demonstrate tips and tricks which will hopefully help 
+# others troubleshoot code in various programming languages
 #
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
+## Welcome to the tutorials repository. Here, I demonstrate tips and tricks which will hopefully help 
+# others troubleshoot code in various programming languages
+# Welcome to the tutorials repository. Here, I demonstrate tips and tricks which will hopefully help 
+# others troubleshoot code in various programming languages
+# Welcome to the tutorials repository. Here, I demonstrate tips and tricks which will hopefully help 
+# others troubleshoot code in various programming languages
+# Welcome to the tutorials repository. Here, I demonstrate tips and tricks which will hopefully help 
+# others troubleshoot code in various programming languages
+# Welcome to the tutorials repository. Here, I demonstrate tips and tricks which will hopefully help 
+# others troubleshoot code in various programming languages
+# Welcome to the tutorials repository. Here, I demonstrate tips and tricks which will hopefully help 
+# others troubleshoot code in various programming languages
 #
 #
 #
