@@ -46,7 +46,7 @@ __[Tutorial 3 - Writing Useful Formulas in Python](https://nbviewer.jupyter.org/
 - [Global Variables vs. Local Variables](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-03-Python-Writing_Useful_Functions.ipynb#second-bullet)
 - [How to Define Global Variables](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-03-Python-Writing_Useful_Functions.ipynb#third-bullet)
 - [Using Functions in Coordination](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-03-Python-Writing_Useful_Functions.ipynb#seventh-bullet)
-
+  - [Supplemental - More Functions Examples](https://nbviewer.jupyter.org/github/sherman6/tutorials/blob/master/Tutorial-03-Python-Supplement_Function_Examples.ipynb)
 
 Tutorial 4 - Topic TBD.  
 
